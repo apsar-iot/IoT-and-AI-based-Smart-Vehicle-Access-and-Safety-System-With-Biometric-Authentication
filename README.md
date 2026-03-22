@@ -1,0 +1,2 @@
+# IoT-and-AI-based-Smart-Vehicle-Access-and-Safety-System-With-Biometric-Authentication
+The system implements a primary  Artificial Intelligence (AI) layer utilizing the Local Binary  Pattern Histogram (LBPH) algorithm for real-time facial  authentication via a Python-based edge-processing unit. To  ensure system reliability and redundancy, a secondary  Biometric Layer is integrated through a custom Kodular  mobile application\
